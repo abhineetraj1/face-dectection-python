@@ -15,9 +15,11 @@ pip3 install filename
 ```
 python3 app.py
 ```
-## ! <p color="red"> IMPORTANT</p>
+##  Note:-
 * Do not delete default.xml file
 * The face detection models are trained according to 2022 data.
+## Programming languages used
+<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
 
 ## Authors
 [@abhineetraj1](https://github.com/abhineetraj1)
