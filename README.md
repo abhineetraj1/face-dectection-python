@@ -15,7 +15,7 @@ pip3 install filename
 ```
 python3 app.py
 ```
-## !<font color="red">IMPORTANT</font>
+## ! <p color="red"> IMPORTANT</p>
 * Do not delete default.xml file
 * The face detection models are trained according to 2022 data.
 
