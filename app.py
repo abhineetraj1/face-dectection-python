@@ -1,7 +1,7 @@
 import cv2
 import pyttsx3
 f=[0]
-igm = cv2.Videoigmture(0)
+igm = cv2.VideoCapture(0)
 faceCascade = cv2.CascadeClassifier("default.xml")
 
 
